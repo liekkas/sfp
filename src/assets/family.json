@@ -1,0 +1,153 @@
+{
+  "common": {
+    "bgMusic": "http://7xkjpz.com1.z0.glb.clouddn.com/MADE%20IN%20HEIGHTS%20-%20Pop%20It%20In%202.mp3",
+    "first": {
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_first_bg.jpg"
+    },
+    "last": {
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_first_bg.jpg"
+    }
+  },
+  "data": [
+    {
+      "year": 2016,
+      "wordA": "爸爸我的电话手表要蓝色的，你存够💰了吗？😁",
+      "whoA": "小谦",
+      "wordB": "还要十天。😭",
+      "whoB": "爸爸",
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_2016_bg.jpg",
+      "left": "20px",
+      "top": "100px",
+      "width": "500px",
+      "infoBgColor": "rgba(66,139,202,0.6)",
+      "months": [
+        {
+          "name": "一月",
+          "word": "一月",
+          "who": "一月",
+          "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "wordA": "不要爬那么高😟!",
+      "whoA": "妈妈",
+      "wordB": "...😑!",
+      "whoB": "小谦",
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_2015_bg.jpg",
+      "right": "20px",
+      "top": "100px",
+      "width": "500px",
+      "infoBgColor": "rgba(69,66,0,0.2)",
+      "months": [
+        {
+          "name": "一月",
+          "word": "一月",
+          "who": "一月",
+          "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "wordA": "走,看火车去",
+      "whoA": "爸爸",
+      "wordB": "爸爸等等我...",
+      "whoB": "小谦",
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_2014_bg.jpg",
+      "bottom": "20px",
+      "right": "25vw",
+      "width": "50vw",
+      "infoBgColor": "rgba(217,83,79,0.4)",
+      "months": [
+        {
+          "name": "一月",
+          "word": "一月",
+          "who": "一月",
+          "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "wordA": "不要在草地上撒尿!",
+      "whoA": "妈妈",
+      "wordB": "...😑!",
+      "whoB": "小谦",
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_2013_bg.jpg",
+      "right": "20px",
+      "top": "100px",
+      "width": "500px",
+      "infoBgColor": "rgba(69,66,0,0.2)",
+      "months": [
+        {
+          "name": "一月",
+          "word": "一月",
+          "who": "一月",
+          "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "wordA": "欢迎来到这个世界，小谦!",
+      "whoA": "爸爸",
+      "wordB": "Hello World!",
+      "whoB": "小谦",
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_2012_bg.jpg",
+      "left": "20px",
+      "top": "100px",
+      "width": "400px",
+      "infoBgColor": "rgba(255,66,0,0.2)",
+      "months": [
+        {
+          "name": "一月",
+          "word": "一月",
+          "who": "一月",
+          "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "wordA": "。。!",
+      "whoA": "妈妈",
+      "wordB": "...😑!",
+      "whoB": "小谦",
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_2011_bg.jpg",
+      "right": "20px",
+      "top": "100px",
+      "width": "450px",
+      "infoBgColor": "rgba(66,139,202,0.2)",
+      "months": [
+        {
+          "name": "一月",
+          "word": "一月",
+          "who": "一月",
+          "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "wordA": "。。!",
+      "whoA": "爸爸",
+      "wordB": "...😑!",
+      "whoB": "小谦",
+      "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family_2010_bg.jpg",
+      "left": "20px",
+      "top": "100px",
+      "width": "450px",
+      "infoBgColor": "rgba(233,107,137,0.3)",
+      "months": [
+        {
+          "name": "一月",
+          "word": "一月",
+          "who": "一月",
+          "cover": "http://7xkjpz.com1.z0.glb.clouddn.com/family.jpg"
+        }
+      ]
+    }
+  ]
+}
